@@ -151,7 +151,7 @@ By storing the age of a cell (and some postprocessing magic), we can make these 
       <img src="images/virus_fungi.gif" width="300"><br>
     </td>
     <td align="center" width="310">
-      <img src="https://github.com/geckoberry/conways-experiment/blob/main/images/lichen.gif" width="300"><br>
+      <img src="images/lichen.gif" width="300"><br>
     </td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ By storing the age of a cell (and some postprocessing magic), we can make these 
       <img src="images/bleed.gif" width="300"><br>
     </td>
     <td align="center" width="310">
-      <img src="https://github.com/geckoberry/conways-experiment/blob/main/images/three_species.gif" width="300"><br>
+      <img src="images/three_species.gif" width="300"><br>
     </td>
   </tr>
   <tr>
